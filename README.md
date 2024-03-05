@@ -4,7 +4,7 @@
 This is my STATS220 repo.
 
 
-This repo will **most** likely be used for the following:
+This repo will **most likely** be used for the following:
 
 
 1. STATS220 Projects 💻
